@@ -3,10 +3,9 @@
 
 
 ## Table of Contents
-* [General Info]
-* [Technologies Used]
-* [Conclusions]
-
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
 
 ## General Information
 - Case study on Lending Club to detect possible defaulters
